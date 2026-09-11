@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JorgeTorrv.github.io/snippets-rkt2gj/sitemap.xml
